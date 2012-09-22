@@ -25,7 +25,7 @@ import org.junit.Test;
  */
 public class NouveautesJavaSept extends TestCase {
 
-	private String myFilePath = "D:/softeam/nio/test.txt";
+	private String myFilePath = "/test.txt";
 
 	/**
 	 * 1. Expression litérale binaire (Byte Code)
